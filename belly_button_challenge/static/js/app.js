@@ -7,7 +7,7 @@ function buildMetadata(sample) {
   
       // Filter the metadata for the object with the desired sample number
       let resultArray = metadata.filter(metaObj => metaObj.id == sample);
-        let result = resultArray[0];
+      let result = resultArray[0];
   
       // Use d3 to select the panel with id of `#sample-metadata`
       let PANEL = d3.select("#sample-metadata");
@@ -33,7 +33,7 @@ function buildMetadata(sample) {
   
       // Filter the samples for the object with the desired sample number
       let resultArray = samples.filter(sampleObj => sampleObj.id == sample);
-    let result = resultArray[0];
+      let result = resultArray[0];
   
       // Get the otu_ids, otu_labels, and sample_values
   
@@ -68,7 +68,7 @@ function buildMetadata(sample) {
 
   
       // For the Bar Chart, map the otu_ids to a list of strings for your yticks
-      Plotly.newPlot("bubble", bubbleData, bubbleLayout);
+      let yticks = otu_ids.slice(0, 10).map(otuID => `OTU ${otuID}`).reverse();
   
   
       // Build a Bar Chart
