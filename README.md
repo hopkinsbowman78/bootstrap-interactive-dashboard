@@ -7,10 +7,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 ## Table of Contents
-+ ETL_Mini_Project_JAustin_HBowman_AMccall.ipynb
-+ Crowdfunding_ERD.png
-+ crowdfunding_db_schema.sql
-+ Resources Folder (campaign.csv, category.csv, contacts.csv, contacts.xlsx, crowdfunding.xlsx, subcategory.csv)
++ belly_button_challenge Folder (below are included folders/files)
++ static (
 + README.md
 
 
