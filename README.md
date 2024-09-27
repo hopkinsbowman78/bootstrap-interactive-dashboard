@@ -7,8 +7,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 ## Table of Contents
-+ belly_button_challenge Folder (below are included folders/files)
-+ static (
+
++ static (js folder, 
 + README.md
 
 
