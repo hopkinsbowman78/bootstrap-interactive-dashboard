@@ -11,6 +11,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 Bellybutton Biodiversity https://hopkinsbowman78.github.io/belly_button_challenge/
 
 ## Table of Contents
++ Module 14 Interactive Dashboard (Original Challenge Requirements)
 + static folder (js folder, app.js)
 + index.html
 + samples.json
