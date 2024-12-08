@@ -1,4 +1,4 @@
-# belly_button_challenge
+# bootstrap_challenge
 
 ## Project Synopsis
 
